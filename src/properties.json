@@ -1,0 +1,170 @@
+[
+  {
+    "id": "EL-006",
+    "slug": "school-for-sale",
+    "name": "Primary & Secondary School for Sale",
+    "price": 1200000000,
+    "type": "School",
+    "real": true,
+    "beds": null,
+    "baths": null,
+    "image": "properties/school/05.webp",
+    "photos": [
+      {
+        "image": "properties/school/01.webp",
+        "source": "Bright Rustic Classroom Study Session.png"
+      },
+      {
+        "image": "properties/school/02.webp",
+        "source": "Bright Shared Dormitory with Green Bunk Beds.png"
+      },
+      {
+        "image": "properties/school/03.webp",
+        "source": "Sunny Campus Courtyard with Motorcycle.png"
+      },
+      {
+        "image": "properties/school/04.webp",
+        "source": "Sunny Courtyard with Arched Veranda.png"
+      },
+      {
+        "image": "properties/school/05.webp",
+        "source": "Sunny School Veranda with Manicured Hedges.png"
+      }
+    ],
+    "tag": "Iganga / Luuka District · 3 acres · Negotiable",
+    "description": "Primary and secondary school for sale in Iganga / Luuka District, on 3 acres of land. The primary school has 400 pupils and the secondary school has 300 students. Asking price: UGX 1.2 billion, negotiable. Contact Exaggerate Living directly as the seller to request further information or arrange a viewing.",
+    "features": [],
+    "priceNote": "Negotiable",
+    "location": "Iganga / Luuka District",
+    "land": "3 acres",
+    "facts": [
+      [
+        "School levels",
+        "Primary and secondary"
+      ],
+      [
+        "Primary enrollment",
+        "400 pupils"
+      ],
+      [
+        "Secondary enrollment",
+        "300 students"
+      ]
+    ]
+  },
+  {
+    "id": "EL-007",
+    "slug": "apartment-for-sale",
+    "name": "Apartment Blocks for Sale",
+    "price": 1500000000,
+    "type": "Apartment",
+    "real": true,
+    "beds": null,
+    "baths": null,
+    "image": "properties/apartment/03.webp",
+    "photos": [
+      {
+        "image": "properties/apartment/01.webp",
+        "source": "Elegant Warm Modern Hallway.png"
+      },
+      {
+        "image": "properties/apartment/02.webp",
+        "source": "Modern Airbnb Media Lounge.png"
+      },
+      {
+        "image": "properties/apartment/03.webp",
+        "source": "Modern Apartment Airbnb Entrance.png"
+      },
+      {
+        "image": "properties/apartment/04.webp",
+        "source": "Modern Courtyard Stay in Kyanja.png"
+      },
+      {
+        "image": "properties/apartment/05.webp",
+        "source": "Warm Taupe Modern Living Room.png"
+      }
+    ],
+    "tag": "2 blocks · 6 units per block · UGX 1.5 billion each",
+    "description": "Two apartment blocks are offered for sale, each at UGX 1.5 billion. Each building contains 6 units. Reported rental income for a buyer is UGX 1.3 million and UGX 1.6 million. Contact us to confirm the collection period and the income applicable to each block. Contact Exaggerate Living directly as the seller for details or a viewing.",
+    "features": [],
+    "priceNote": "Per block",
+    "facts": [
+      [
+        "Blocks for sale",
+        "2"
+      ],
+      [
+        "Asking price per block",
+        "UGX 1,500,000,000"
+      ],
+      [
+        "Units per block",
+        "6"
+      ],
+      [
+        "Reported rental income",
+        "UGX 1.3 million and UGX 1.6 million"
+      ],
+      [
+        "Collection period and income per block",
+        "Contact us to confirm"
+      ]
+    ]
+  },
+  {
+    "id": "EL-008",
+    "slug": "house-for-sale",
+    "name": "House for sale",
+    "price": 500000000,
+    "type": "House",
+    "real": true,
+    "beds": null,
+    "baths": null,
+    "image": "properties/house/03.webp",
+    "photos": [
+      {
+        "image": "properties/house/01.webp",
+        "source": "Bright Renovation Room with Worker and Debris.png"
+      },
+      {
+        "image": "properties/house/02.webp",
+        "source": "Man in an Empty White Room.png"
+      },
+      {
+        "image": "properties/house/03.webp",
+        "source": "Modern Beige House with Red Metal Roof.png"
+      },
+      {
+        "image": "properties/house/04.webp",
+        "source": "Modern Terracotta House Entrance.png"
+      },
+      {
+        "image": "properties/house/05.webp",
+        "source": "Modern Veranda Home with Courtyard Cart.png"
+      },
+      {
+        "image": "properties/house/06.webp",
+        "source": "Renovation Corridor with Open Door.png"
+      },
+      {
+        "image": "properties/house/07.webp",
+        "source": "Sunlit Gray Construction House Under Blue Skies.png"
+      },
+      {
+        "image": "properties/house/08.webp",
+        "source": "Sunlit Renovation with Workers (1).png"
+      },
+      {
+        "image": "properties/house/09.webp",
+        "source": "Sunlit Renovation with Workers.png"
+      },
+      {
+        "image": "properties/house/10.webp",
+        "source": "Sunny Terracotta Courtyard Walkway.png"
+      }
+    ],
+    "tag": "For sale · Supplied by the business",
+    "description": "House for sale at an asking price of UGX 500,000,000. The business has confirmed that this is a real property offered for sale. Browse the supplied photographs and contact Exaggerate Living to arrange a viewing or request further details.",
+    "features": []
+  }
+]
