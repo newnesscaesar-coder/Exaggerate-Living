@@ -1,0 +1,14 @@
+{
+  "name": "exaggerate-living",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.cjs"
+  },
+  "dependencies": {
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "lucide-react": "0.468.0",
+    "esbuild": "0.25.12"
+  }
+}

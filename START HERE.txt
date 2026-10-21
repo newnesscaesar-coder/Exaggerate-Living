@@ -1,0 +1,8 @@
+EXAGGERATE LIVING — DIRECT PROPERTY SALES
+Extract the ZIP and open index.html. Keep properties and logo.jpeg beside it.
+School: Primary and secondary, 400 pupils and 300 students, 3 acres, Iganga / Luuka District. UGX 1.2 billion negotiable.
+Apartments: 2 blocks, UGX 1.5 billion per block, 6 units per building. Reported rental income UGX 1.3 million and UGX 1.6 million. Collection period and income per block to be confirmed.
+House: UGX 500 million.
+Exaggerate Living is the seller. WhatsApp 0785243828. Email webdustltd@gmail.com.
+Forms prepare WhatsApp messages for review and sending; nothing is saved automatically.
+Source in src/. With Node.js, install dependencies and run npm run build to rebuild.
